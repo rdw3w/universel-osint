@@ -1,0 +1,6 @@
+{
+  "name": "Nexus OSINT",
+  "description": "Production-grade OSINT platform with modular architecture and 3D network visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
